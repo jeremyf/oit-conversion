@@ -1,0 +1,5 @@
+module Oit
+  module Conversion
+    VERSION = "0.0.1"
+  end
+end
