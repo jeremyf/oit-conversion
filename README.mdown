@@ -1,0 +1,5 @@
+OIT Conversion
+==============
+
+oit.nd.edu is moving from a Contribute managed site to Conductor.  This gem
+is to help automate the migration process.
