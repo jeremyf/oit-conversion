@@ -3,3 +3,15 @@ OIT Conversion
 
 oit.nd.edu is moving from a Contribute managed site to Conductor.  This gem
 is to help automate the migration process.
+
+TODO
+----
+
+* Create redirects based on OIT maintained conversion document – this will be
+loaded in Apache
+* Update URLs to check each oit.nd.edu link as to whether it goes to
+ndoit.nd.edu OR oit.nd.edu
+* Update all references to oit.conductor.nd.edu and
+oitsupport.conductor.nd.edu by removing ".conductor"
+* For each page, verify that each link resolves – group links by status – and
+generate a report.
